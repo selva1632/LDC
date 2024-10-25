@@ -1,0 +1,39 @@
+Apple-Apple scab
+Apple-Black rot
+Apple-Cedar apple rust
+Apple-healthy
+Blueberry-healthy
+Cherry(including_sour)-Powdery_mildew
+Cherry(including_sour)-healthy
+Corn(maize)-Cercospora leaf spot Gray leaf spot
+Corn(maize)-Common rust
+Corn(maize)-Northern Leaf Blight
+Corn(maize)-healthy
+Grape-Black rot
+Grape-Esca(Black_Measles)
+Grape-Leaf blight(Isariopsis Leaf Spot)
+Grape-healthy
+Please place a leaf to Predict the disease
+Orange Haunglongbing(Citrus_greening)
+Peach-Bacterial spot
+Peach-healthy
+Pepperbell-Bacterial spot
+Pepperbell-healthy
+Potato-Earlyblight
+Potato-Lateblight
+Potato-healthy
+Raspberry-healthy
+Soybean-healthy
+Squash-Powdery mildew
+Strawberry-Leaf scorch
+Strawberry-healthy
+Tomato-Bacterial spot
+Tomato-Earlyblight
+Tomato-Lateblight
+Tomato-LeafMold
+Tomato-Septoria leaf spot
+Tomato-Spider mites Two spotted spider mite
+Tomato-Target Spot
+Tomato-Tomato Yellow Leaf Curl Virus
+Tomato-mosaic virus
+Tomato-healthy
